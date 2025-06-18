@@ -1,7 +1,7 @@
 # 🖥️ Desktop Voice Assistant using Python
 A smart, voice-controlled desktop assistant built in Python that can greet you, tell jokes, fetch weather updates, deliver latest news, and respond to various voice commands.
 
-# 🎯 Key Features
+## 🎯 Key Features
 🗣️ Voice Recognition – Understands spoken commands via microphone.
 
 🗨️ Speech Output – Talks back using text-to-speech (TTS).
@@ -16,7 +16,7 @@ A smart, voice-controlled desktop assistant built in Python that can greet you, 
 
 🔁 Continuous Interaction – Listens until user exits the assistant.
 
-# 🧰 Built With
+## 🧰 Built With
 Python 
 
 pyttsx3 – Offline text-to-speech
@@ -33,7 +33,7 @@ openweathermap.org API – For weather data
 
 newsdata.io API – For real-time news
 
-# 📦 Requirements
+## 📦 Requirements
 Install the following dependencies:
 
 bash
@@ -53,10 +53,10 @@ Update the API keys inside the index.py file:
 python
 Copy
 Edit
-# Weather API Key
+## Weather API Key
 api_key = "YOUR_OPENWEATHERMAP_API_KEY"
 
-# News API Key
+## News API Key
 api_key = "YOUR_NEWSDATA_API_KEY"
 Sign up for free API keys at:
 
@@ -64,7 +64,7 @@ OpenWeatherMap
 
 NewsData.io
 
-# ▶️ How to Run
+## ▶️ How to Run
 Simply execute:
 
 bash
@@ -81,7 +81,7 @@ joke – Hear a programming joke.
 
 exit – Close the assistant.
 
-# 🧪 Sample Conversation
+## 🧪 Sample Conversation
 text
 Copy
 Edit
