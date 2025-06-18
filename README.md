@@ -1,7 +1,7 @@
 # 🖥️ Desktop Voice Assistant using Python
 A smart, voice-controlled desktop assistant built in Python that can greet you, tell jokes, fetch weather updates, deliver latest news, and respond to various voice commands.
 
----
+
 
 ## 🎯 Key Features
 - 🗣️ Voice Recognition – Understands spoken commands via microphone.
@@ -18,7 +18,6 @@ A smart, voice-controlled desktop assistant built in Python that can greet you, 
 
 - 🔁 Continuous Interaction – Listens until user exits the assistant.
 
----
 
 ## 🧰 Built With
 - Python 
@@ -37,7 +36,7 @@ A smart, voice-controlled desktop assistant built in Python that can greet you, 
 
 - newsdata.io API – For real-time news
 
----
+
 
 ## 📦 Requirements
 Install the following dependencies:
@@ -52,7 +51,7 @@ pip install pipwin
 pipwin install pyaudio
 ```
 
----
+
 
 ## ▶️ How to Run
 Simply execute:
@@ -70,7 +69,7 @@ You'll be greeted by the assistant. Try saying:
 
 - exit – Close the assistant.
 
----
+
 
 ## 🧪 Sample Conversation
 ```bash
@@ -86,7 +85,7 @@ You: Mumbai
 
 Assistant: The weather in Mumbai is light rain with a temperature of 29 degrees Celsius.
 ```
----
+
 
 ## 🙋‍♀️ Contributors
 
