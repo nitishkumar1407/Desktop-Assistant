@@ -1,4 +1,4 @@
-## 🖥️ Desktop Voice Assistant using Python
+# 🖥️ Desktop Voice Assistant using Python
 A smart, voice-controlled desktop assistant built in Python that can greet you, tell jokes, fetch weather updates, deliver latest news, and respond to various voice commands.
 
 # 🎯 Key Features
