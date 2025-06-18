@@ -61,7 +61,7 @@ Copy
 Edit
 ---
 ## Weather API Key
-api_key = "YOUR_OPENWEATHERMAP_API_KEY"
+### api_key = "YOUR_OPENWEATHERMAP_API_KEY"
 ---
 ## News API Key
 api_key = "YOUR_NEWSDATA_API_KEY"
@@ -93,14 +93,17 @@ exit – Close the assistant.
 ---
 
 ## 🧪 Sample Conversation
-text
-Copy
-Edit
+
 Assistant: Good Morning! Today is Wednesday, 18 June 2025 and the current time is 10:30 AM.
+
 Assistant: What would you like me to do? Options are weather, joke, news, or exit.
+
 You: Weather
+
 Assistant: Which city do you want to know the weather for?
+
 You: Mumbai
+
 Assistant: The weather in Mumbai is light rain with a temperature of 29 degrees Celsius.
 
 ---
