@@ -59,17 +59,6 @@ Update the API keys inside the index.py file:
 python
 Copy
 Edit
----
-## Weather API Key
-### api_key = "YOUR_OPENWEATHERMAP_API_KEY"
----
-## News API Key
-api_key = "YOUR_NEWSDATA_API_KEY"
-Sign up for free API keys at:
-
-OpenWeatherMap
-
-NewsData.io
 
 ---
 
