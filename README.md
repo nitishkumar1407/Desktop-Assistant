@@ -4,72 +4,71 @@ A smart, voice-controlled desktop assistant built in Python that can greet you, 
 ---
 
 ## 🎯 Key Features
-🗣️ Voice Recognition – Understands spoken commands via microphone.
+- 🗣️ Voice Recognition – Understands spoken commands via microphone.
 
-🗨️ Speech Output – Talks back using text-to-speech (TTS).
+- 🗨️ Speech Output – Talks back using text-to-speech (TTS).
 
-🕒 Dynamic Greetings – Greets the user based on current time and date.
+- 🕒 Dynamic Greetings – Greets the user based on current time and date.
 
-🌦️ Weather Report – Provides real-time weather info by city.
+- 🌦️ Weather Report – Provides real-time weather info by city.
 
-📰 Top News – Fetches latest news in your preferred language and region.
+- 📰 Top News – Fetches latest news in your preferred language and region.
 
-😂 Humor – Tells tech jokes to lighten the mood.
+- 😂 Humor – Tells tech jokes to lighten the mood.
 
-🔁 Continuous Interaction – Listens until user exits the assistant.
+- 🔁 Continuous Interaction – Listens until user exits the assistant.
 
 ---
 
 ## 🧰 Built With
-Python 
+- Python 
 
-pyttsx3 – Offline text-to-speech
+- pyttsx3 – Offline text-to-speech
 
-speech_recognition – Voice recognition
+- speech_recognition – Voice recognition
 
-requests – For accessing external APIs
+- requests – For accessing external APIs
 
-pyjokes – Generates tech-related jokes
+- pyjokes – Generates tech-related jokes
 
-datetime – Time and date operations
+- datetime – Time and date operations
 
-openweathermap.org API – For weather data
+- openweathermap.org API – For weather data
 
-newsdata.io API – For real-time news
+- newsdata.io API – For real-time news
 
 ---
 
 ## 📦 Requirements
 Install the following dependencies:
-
+```bash
 
 pip install pyttsx3 SpeechRecognition requests pyjokes
+```
 Note: If you face errors with pyaudio, install using:
 
-
+```bash
 pip install pipwin
 pipwin install pyaudio
-🔐 API Configuration
-Update the API keys inside the index.py file:
-
-
+```
 
 ---
 
 ## ▶️ How to Run
 Simply execute:
 
-
+```bash
 python index.py
+```
 You'll be greeted by the assistant. Try saying:
 
-weather – Get current weather for any city.
+- weather – Get current weather for any city.
+ 
+- news – Receive top news headlines.
 
-news – Receive top news headlines.
+- joke – Hear a programming joke.
 
-joke – Hear a programming joke.
-
-exit – Close the assistant.
+- exit – Close the assistant.
 
 ---
 
