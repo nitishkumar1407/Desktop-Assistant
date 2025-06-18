@@ -1,6 +1,8 @@
 # 🖥️ Desktop Voice Assistant using Python
 A smart, voice-controlled desktop assistant built in Python that can greet you, tell jokes, fetch weather updates, deliver latest news, and respond to various voice commands.
 
+---
+
 ## 🎯 Key Features
 🗣️ Voice Recognition – Understands spoken commands via microphone.
 
@@ -15,6 +17,8 @@ A smart, voice-controlled desktop assistant built in Python that can greet you, 
 😂 Humor – Tells tech jokes to lighten the mood.
 
 🔁 Continuous Interaction – Listens until user exits the assistant.
+
+---
 
 ## 🧰 Built With
 Python 
@@ -32,6 +36,8 @@ datetime – Time and date operations
 openweathermap.org API – For weather data
 
 newsdata.io API – For real-time news
+
+---
 
 ## 📦 Requirements
 Install the following dependencies:
@@ -53,9 +59,10 @@ Update the API keys inside the index.py file:
 python
 Copy
 Edit
+---
 ## Weather API Key
 api_key = "YOUR_OPENWEATHERMAP_API_KEY"
-
+---
 ## News API Key
 api_key = "YOUR_NEWSDATA_API_KEY"
 Sign up for free API keys at:
@@ -63,6 +70,8 @@ Sign up for free API keys at:
 OpenWeatherMap
 
 NewsData.io
+
+---
 
 ## ▶️ How to Run
 Simply execute:
@@ -81,6 +90,8 @@ joke – Hear a programming joke.
 
 exit – Close the assistant.
 
+---
+
 ## 🧪 Sample Conversation
 text
 Copy
@@ -92,6 +103,7 @@ Assistant: Which city do you want to know the weather for?
 You: Mumbai
 Assistant: The weather in Mumbai is light rain with a temperature of 29 degrees Celsius.
 
+---
 
 ## 🙋‍♀️ Contributors
 This is a collaborative group project by passionate undergraduates from LNCT College, addressing real-world energy forecasting challenges using ML.
