@@ -42,32 +42,24 @@ newsdata.io API – For real-time news
 ## 📦 Requirements
 Install the following dependencies:
 
-bash
-Copy
-Edit
+
 pip install pyttsx3 SpeechRecognition requests pyjokes
 Note: If you face errors with pyaudio, install using:
 
-bash
-Copy
-Edit
+
 pip install pipwin
 pipwin install pyaudio
 🔐 API Configuration
 Update the API keys inside the index.py file:
 
-python
-Copy
-Edit
+
 
 ---
 
 ## ▶️ How to Run
 Simply execute:
 
-bash
-Copy
-Edit
+
 python index.py
 You'll be greeted by the assistant. Try saying:
 
