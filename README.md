@@ -109,7 +109,6 @@ Assistant: The weather in Mumbai is light rain with a temperature of 29 degrees 
 ---
 
 ## 🙋‍♀️ Contributors
-This is a collaborative group project by passionate undergraduates from LNCT College, addressing real-world energy forecasting challenges using ML.
 
 - Nitish Kumar 
 -- Linkedin:https://www.linkedin.com/in/nitish07kumar/
